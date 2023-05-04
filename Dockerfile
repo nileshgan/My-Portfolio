@@ -1,5 +1,5 @@
 FROM ubuntu
 WORKDIR /nilesh
-echo "Latest image" > /testfile
+EXPOSE 8086
 ENV myname Myproject
 
