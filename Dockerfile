@@ -1,5 +1,5 @@
 FROM ubuntu
 WORKDIR /nilesh
-EXPOSE 8086
+EXPOSE 8000
 ENV myname Myproject
 
