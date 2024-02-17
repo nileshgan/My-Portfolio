@@ -1,3 +1,7 @@
-My Access Page 
+This is my access page 
 
-Thank you all.
+If you want to explore about me please check all the section which are available here.
+
+Thank You.
+
+
